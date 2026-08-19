@@ -19,11 +19,26 @@ A **Category → Item** picker for inserting `__wildcard__` tokens into the prom
 
 ## 📋 Table of Contents
 
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [How it Works](#-how-it-works)
 - [Installation](#-installation)
 - [Settings](#-settings)
 - [Credits](#-credits)
+
+---
+
+## 🖼️ Screenshots
+
+<div align="center">
+
+| Picker | Categorize panel |
+|---|---|
+| ![Category and Item picker, collapsed](.github/screenshots/picker.png) | ![Categorize panel for fixing a wrong guess](.github/screenshots/categorize-panel.png) |
+
+![Category dropdown open, showing entry counts per category](.github/screenshots/category-dropdown.png)
+
+</div>
 
 ---
 
