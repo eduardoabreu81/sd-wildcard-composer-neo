@@ -35,8 +35,11 @@ A **Category → Item** picker for inserting `__wildcard__` tokens into the prom
 | Picker | Categorize panel |
 |---|---|
 | ![Category and Item picker, collapsed](.github/screenshots/picker.png) | ![Categorize panel for fixing a wrong guess](.github/screenshots/categorize-panel.png) |
+| The accordion collapsed to its default state, with 1195 wildcards found and the Category/Item dropdowns empty and ready to pick. | The "Categorize" sub-panel expanded, with the "Uncategorized only" checkbox and the Wildcard/Category dropdowns used to fix a wrong auto-guess by hand. |
 
 ![Category dropdown open, showing entry counts per category](.github/screenshots/category-dropdown.png)
+
+The Category dropdown open mid-generation, listing all 23 categories with their live entry counts (e.g. `PRESET (457)`, `OUTFIT (192)`, `POSE (120)`) — picking one filters the Item dropdown down to just that category's wildcards.
 
 </div>
 
