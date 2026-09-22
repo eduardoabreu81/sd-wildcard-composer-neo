@@ -98,6 +98,6 @@ MIT — see [LICENSE](LICENSE)
 
 Made with ❤️ for the Stable Diffusion community
 
-**[Report Bug](https://github.com/eduardoabreu81/sd-wildcard-composer-neo/issues)** • **[Request Feature](https://github.com/eduardoabreu81/sd-wildcard-composer-neo/issues)**
+**[Report Bug](https://github.com/eduardoabreu81/sd-wildcard-composer-neo/issues)** • **[Request Feature](https://github.com/eduardoabreu81/sd-wildcard-composer-neo/issues)** • **[☕ Ko-fi](https://ko-fi.com/eduardoabreu81)**
 
 </div>
